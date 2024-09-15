@@ -1,7 +1,8 @@
-- hi welcome to my github
-- i am delusions
-- check out the stuff i've done i guess
-- i was @Mystery96 on scratch, @delusions on meower (unless stated otherwise) and @thedelusions on splash (coming soon)
+# hi guys am delusion the stupid
+check out what horrendous projects i've made
+im kinda proud of some of em, some of them ehhhh
+anyways uhm
+thats cool i guess
 
 <!---
 zzthebooplister/zzthebooplister is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
