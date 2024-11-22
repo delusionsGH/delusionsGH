@@ -1,11 +1,10 @@
-# hi guys am delusion the stupid
-check out what horrendous projects i've made
-
-im kinda proud of some of em, some of them ehhhh
-
-anyways uhm
-
-thats cool i guess
+# hi guys
+i am delusions
+i make things
+some of them are really old scratch projects
+some of them are actually good scratch projects
+some of them are even in js
+so yeah
 
 <!---
 zzthebooplister/zzthebooplister is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
