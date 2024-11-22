@@ -1,9 +1,14 @@
 # hi guys
 i am delusions
+
 i make things
+
 some of them are really old scratch projects
+
 some of them are actually good scratch projects
+
 some of them are even in js
+
 so yeah
 
 <!---
