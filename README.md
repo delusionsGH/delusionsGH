@@ -7,6 +7,6 @@ I'm that one person who founded maelink communications and maelink, an open sour
 
 So yeah. That's pretty much all there is to this place. Go scavenge around my projects, or don't. :p
 <!---
-zzthebooplister/zzthebooplister is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+delusionsgh/aboutme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
