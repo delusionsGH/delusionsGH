@@ -1,7 +1,7 @@
 # Hi there
 
-I'm that one person who founded maelink, the open source social media for all.
-###### You should totally check it out by the way... https://github.com/maelink-communications
+I'm that one person who founded maelink communications and maelink, an open source social media
+###### You should totally check them out by the way... https://github.com/maelink-communications
 
 ...but I also made some other little projects of my own. Some of these are really old Scratch projects I uploaded to GitHub for archival purposes, some are random JS projects and then there's maelink, the one project I'm actually proud of, somewhat.
 
